@@ -1,10 +1,9 @@
 import React from 'react';
-import ThemeToggleWithImage from '../components/ImageToggle';
+import Calculator from '../components/Calculator'
 
 const AboutPage = () => (
   <div>
-    <p>Apenas uma area para mexer com os estados.</p>
-    <ThemeToggleWithImage />
+   <Calculator />
   </div>
   
 );

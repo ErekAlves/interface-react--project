@@ -1,9 +1,9 @@
 import React from 'react';
-import MyForm from '../components/Form';
+import DogApi from '../components/DogApi';
 
 const HomePage = () => (
   <div>
-    <MyForm />
+      <DogApi />
   </div>
 );
 
